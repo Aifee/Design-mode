@@ -56,12 +56,27 @@
     <Compile Include="Scripts\Abstract Factory Pattern\ShapeFactory.cs" />
     <Compile Include="Scripts\Abstract Factory Pattern\Square.cs" />
     <Compile Include="Scripts\AbstractFactoryDemo.cs" />
+    <Compile Include="Scripts\Builder Pattern\Bottle.cs" />
+    <Compile Include="Scripts\Builder Pattern\Burger.cs" />
+    <Compile Include="Scripts\Builder Pattern\ChickenBurger.cs" />
+    <Compile Include="Scripts\Builder Pattern\Coke.cs" />
+    <Compile Include="Scripts\Builder Pattern\ColdDrink.cs" />
+    <Compile Include="Scripts\Builder Pattern\IItem.cs" />
+    <Compile Include="Scripts\Builder Pattern\IPacking.cs" />
+    <Compile Include="Scripts\Builder Pattern\Meal.cs" />
+    <Compile Include="Scripts\Builder Pattern\MealBuilder.cs" />
+    <Compile Include="Scripts\Builder Pattern\Pepsi.cs" />
+    <Compile Include="Scripts\Builder Pattern\VegBurger.cs" />
+    <Compile Include="Scripts\Builder Pattern\Wrapper.cs" />
+    <Compile Include="Scripts\BuilderPatternDemo.cs" />
     <Compile Include="Scripts\Factory Pattern\Circle.cs" />
     <Compile Include="Scripts\Factory Pattern\Rectangle.cs" />
     <Compile Include="Scripts\Factory Pattern\Shape.cs" />
     <Compile Include="Scripts\Factory Pattern\ShapeFactory.cs" />
     <Compile Include="Scripts\ShapeFactoryDemo.cs" />
     <Compile Include="Scripts\Factory Pattern\Square.cs" />
+    <Compile Include="Scripts\Singleton Pattern\Singleton.cs" />
+    <Compile Include="Scripts\SingletonDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
