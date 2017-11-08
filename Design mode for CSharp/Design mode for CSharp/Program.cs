@@ -10,7 +10,7 @@ namespace Design_mode_for_CSharp
     {
         static void Main(string[] args)
         {
-            //ShapeFactoryDemo demo = new ShapeFactoryDemo();
+            //FactoryPatternDemo demo = new FactoryPatternDemo();
             //AbstractFactoryDemo demo = new AbstractFactoryDemo();
             //demo.Test();
             //Scripts.SingletonDemo demo = new Scripts.SingletonDemo();
