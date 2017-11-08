@@ -14,7 +14,13 @@ namespace Design_mode_for_CSharp
             //AbstractFactoryDemo demo = new AbstractFactoryDemo();
             //demo.Test();
             //Scripts.SingletonDemo demo = new Scripts.SingletonDemo();
-            Scripts.BuilderPatternDemo demo = new Scripts.BuilderPatternDemo();
+            //Scripts.BuilderPatternDemo demo = new Scripts.BuilderPatternDemo();
+            //Scripts.PrototypePatternDemo demo = new Scripts.PrototypePatternDemo();
+            //Scripts.AdapterPatternDemo demo = new Scripts.AdapterPatternDemo();
+            //Scripts.BridgePatternDemo demo = new Scripts.BridgePatternDemo();
+            //Scripts.FilterPatternDemo demo = new Scripts.FilterPatternDemo();
+            //Scripts.CompositePatternDemo demo = new Scripts.CompositePatternDemo();
+            Scripts.DecoratorPatternDemo demo = new Scripts.DecoratorPatternDemo();
             while (true)
             {
 
