@@ -204,7 +204,7 @@
     <Compile Include="Scripts\Service Locator Pattern\Service2.cs" />
     <Compile Include="Scripts\Service Locator Pattern\ServiceLocator.cs" />
     <Compile Include="Scripts\ServiceLocatorPatternDemo.cs" />
-    <Compile Include="Scripts\ShapeFactoryDemo.cs" />
+    <Compile Include="Scripts\FactoryPatternDemo.cs" />
     <Compile Include="Scripts\Factory Pattern\Square.cs" />
     <Compile Include="Scripts\Singleton Pattern\Singleton.cs" />
     <Compile Include="Scripts\SingletonDemo.cs" />
@@ -238,7 +238,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Scripts\catalog.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
